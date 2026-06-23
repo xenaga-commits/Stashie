@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Downloads\\OriathHubSDK-0.3.0\\OriathHubSDK-0.3.0\\samples\\Stashie\\Stashie.csproj": {}
+    "D:\\POE2Stuff\\OriathHubSDK-0.3.0\\OriathHubSDK-0.3.0\\samples\\Stashie\\Stashie.csproj": {}
   },
   "projects": {
-    "D:\\Downloads\\OriathHubSDK-0.3.0\\OriathHubSDK-0.3.0\\samples\\Stashie\\Stashie.csproj": {
+    "D:\\POE2Stuff\\OriathHubSDK-0.3.0\\OriathHubSDK-0.3.0\\samples\\Stashie\\Stashie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Downloads\\OriathHubSDK-0.3.0\\OriathHubSDK-0.3.0\\samples\\Stashie\\Stashie.csproj",
+        "projectUniqueName": "D:\\POE2Stuff\\OriathHubSDK-0.3.0\\OriathHubSDK-0.3.0\\samples\\Stashie\\Stashie.csproj",
         "projectName": "Stashie",
-        "projectPath": "D:\\Downloads\\OriathHubSDK-0.3.0\\OriathHubSDK-0.3.0\\samples\\Stashie\\Stashie.csproj",
+        "projectPath": "D:\\POE2Stuff\\OriathHubSDK-0.3.0\\OriathHubSDK-0.3.0\\samples\\Stashie\\Stashie.csproj",
         "packagesPath": "C:\\Users\\Farhan\\.nuget\\packages\\",
-        "outputPath": "D:\\Downloads\\OriathHubSDK-0.3.0\\OriathHubSDK-0.3.0\\samples\\Stashie\\obj\\",
+        "outputPath": "D:\\POE2Stuff\\OriathHubSDK-0.3.0\\OriathHubSDK-0.3.0\\samples\\Stashie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "D:\\Downloads\\OriathHubSDK-0.3.0\\OriathHubSDK-0.3.0\\samples\\Stashie\\NuGet.Config",
+          "D:\\POE2Stuff\\OriathHubSDK-0.3.0\\OriathHubSDK-0.3.0\\samples\\Stashie\\NuGet.Config",
           "C:\\Users\\Farhan\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [

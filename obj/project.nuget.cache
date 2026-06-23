@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+lfe+N88488=",
+  "dgSpecHash": "It+QmRHVBIM=",
   "success": true,
-  "projectFilePath": "D:\\Downloads\\OriathHubSDK-0.3.0\\OriathHubSDK-0.3.0\\samples\\Stashie\\Stashie.csproj",
+  "projectFilePath": "D:\\POE2Stuff\\OriathHubSDK-0.3.0\\OriathHubSDK-0.3.0\\samples\\Stashie\\Stashie.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Farhan\\.nuget\\packages\\clickabletransparentoverlay\\11.1.0\\clickabletransparentoverlay.11.1.0.nupkg.sha512",
     "C:\\Users\\Farhan\\.nuget\\packages\\coroutine\\2.1.5\\coroutine.2.1.5.nupkg.sha512",

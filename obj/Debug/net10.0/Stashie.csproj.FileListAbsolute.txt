@@ -1,0 +1,14 @@
+D:\Downloads\OriathHubSDK-0.3.0\OriathHubSDK-0.3.0\samples\Stashie\bin\Debug\net10.0\Stashie.deps.json
+D:\Downloads\OriathHubSDK-0.3.0\OriathHubSDK-0.3.0\samples\Stashie\bin\Debug\net10.0\Stashie.dll
+D:\Downloads\OriathHubSDK-0.3.0\OriathHubSDK-0.3.0\samples\Stashie\bin\Debug\net10.0\Stashie.pdb
+D:\Downloads\OriathHubSDK-0.3.0\OriathHubSDK-0.3.0\samples\Stashie\bin\Debug\net10.0\Stashie.xml
+D:\Downloads\OriathHubSDK-0.3.0\OriathHubSDK-0.3.0\samples\Stashie\obj\Debug\net10.0\Stashie.csproj.AssemblyReference.cache
+D:\Downloads\OriathHubSDK-0.3.0\OriathHubSDK-0.3.0\samples\Stashie\obj\Debug\net10.0\Stashie.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\OriathHubSDK-0.3.0\OriathHubSDK-0.3.0\samples\Stashie\obj\Debug\net10.0\Stashie.AssemblyInfoInputs.cache
+D:\Downloads\OriathHubSDK-0.3.0\OriathHubSDK-0.3.0\samples\Stashie\obj\Debug\net10.0\Stashie.AssemblyInfo.cs
+D:\Downloads\OriathHubSDK-0.3.0\OriathHubSDK-0.3.0\samples\Stashie\obj\Debug\net10.0\Stashie.csproj.CoreCompileInputs.cache
+D:\Downloads\OriathHubSDK-0.3.0\OriathHubSDK-0.3.0\samples\Stashie\obj\Debug\net10.0\Stashie.dll
+D:\Downloads\OriathHubSDK-0.3.0\OriathHubSDK-0.3.0\samples\Stashie\obj\Debug\net10.0\refint\Stashie.dll
+D:\Downloads\OriathHubSDK-0.3.0\OriathHubSDK-0.3.0\samples\Stashie\obj\Debug\net10.0\Stashie.xml
+D:\Downloads\OriathHubSDK-0.3.0\OriathHubSDK-0.3.0\samples\Stashie\obj\Debug\net10.0\Stashie.pdb
+D:\Downloads\OriathHubSDK-0.3.0\OriathHubSDK-0.3.0\samples\Stashie\obj\Debug\net10.0\ref\Stashie.dll

@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "+lfe+N88488=",
+  "success": true,
+  "projectFilePath": "D:\\Downloads\\OriathHubSDK-0.3.0\\OriathHubSDK-0.3.0\\samples\\Stashie\\Stashie.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Farhan\\.nuget\\packages\\clickabletransparentoverlay\\11.1.0\\clickabletransparentoverlay.11.1.0.nupkg.sha512",
+    "C:\\Users\\Farhan\\.nuget\\packages\\coroutine\\2.1.5\\coroutine.2.1.5.nupkg.sha512",
+    "C:\\Users\\Farhan\\.nuget\\packages\\imgui.net\\1.91.6.1\\imgui.net.1.91.6.1.nupkg.sha512",
+    "C:\\Users\\Farhan\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\Farhan\\.nuget\\packages\\oriathhub.sdk\\0.3.0\\oriathhub.sdk.0.3.0.nupkg.sha512",
+    "C:\\Users\\Farhan\\.nuget\\packages\\sharpgen.runtime\\2.1.2-beta\\sharpgen.runtime.2.1.2-beta.nupkg.sha512",
+    "C:\\Users\\Farhan\\.nuget\\packages\\sharpgen.runtime.com\\2.1.2-beta\\sharpgen.runtime.com.2.1.2-beta.nupkg.sha512",
+    "C:\\Users\\Farhan\\.nuget\\packages\\sixlabors.imagesharp\\3.1.12\\sixlabors.imagesharp.3.1.12.nupkg.sha512",
+    "C:\\Users\\Farhan\\.nuget\\packages\\vortice.d3dcompiler\\3.5.0\\vortice.d3dcompiler.3.5.0.nupkg.sha512",
+    "C:\\Users\\Farhan\\.nuget\\packages\\vortice.direct3d11\\3.5.0\\vortice.direct3d11.3.5.0.nupkg.sha512",
+    "C:\\Users\\Farhan\\.nuget\\packages\\vortice.directx\\3.5.0\\vortice.directx.3.5.0.nupkg.sha512",
+    "C:\\Users\\Farhan\\.nuget\\packages\\vortice.dxgi\\3.5.0\\vortice.dxgi.3.5.0.nupkg.sha512",
+    "C:\\Users\\Farhan\\.nuget\\packages\\vortice.mathematics\\1.7.8\\vortice.mathematics.1.7.8.nupkg.sha512"
+  ],
+  "logs": []
+}
